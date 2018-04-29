@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/al8876/chatbot/issues"
   },
-  "homepage": "https://github.com/al8876/chatbot#readme"
+  "homepage": "https://github.com/al8876/chatbot#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "request": "^2.85.0"
+  }
 }
