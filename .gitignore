@@ -1,1 +1,2 @@
-./helps/processMessage.js
+./helpers/.env
+node_modules/**/*
